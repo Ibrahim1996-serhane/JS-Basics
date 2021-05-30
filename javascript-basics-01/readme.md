@@ -42,7 +42,7 @@
 
 1. Just like Step 3, but ask for name, surname, and city (Step 2 + Step 3)
 2. Commit
-
+art 2: Income Tax Calculator 35x🔑
 ## Step 5 : Simple Math
 
 1. Ask for the user for two numbers
