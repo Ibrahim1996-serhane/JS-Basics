@@ -1,4 +1,4 @@
-function Age(age) {
+function Age() {
 var age = parseFloat(document.getElementById('age').value);
 if (age >"18")
     alert("you are over 18"+"\n"+"and you're age is :  " +age +"\n");

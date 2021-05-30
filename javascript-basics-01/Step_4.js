@@ -1,8 +1,10 @@
 
-    var name = prompt("Please enter your name:");
-    var surname = prompt("Please enter your surname:");
-    var city = prompt("Please enter your city:");
-    alert("name: " + name + "\nsurname: " + surname + "\ncity: " + city);
-
-
+    function xn() {
+        var name =document.getElementById('name').value;
+        var surname  = document.getElementById('surname').value;
+        var city  = document.getElementById('city').value;
+        var result ="name: " + name + "\nsurname: " + surname + "\ncity: " + city;
+        // document.getElementById("demo").innerHTML = result ;
+        alert(result +"\n");
+    }
 
